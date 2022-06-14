@@ -1,0 +1,11 @@
+.image{
+    display:flex;
+    justify-content:center;
+}
+
+a{
+    font-size:large;
+    text-align:center;
+    color:firebrick;
+    font-family:Arial, Helvetica, sans-serif
+}
